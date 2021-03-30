@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fmorrisey
+- 👀 I’m interested in fusing tech and design
+- 🌱 I’m currently focused on Front End Development but continue to learn Full Stack.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me @realForrest on Twitter, LinkedIn, or my personal site ForrestMorrisey.com
