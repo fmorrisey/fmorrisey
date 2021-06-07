@@ -14,5 +14,5 @@ Familiarity with:
  - MongoDB NoSQL and SQL databases
  
 - 📫  You can reach me via:
-  - my personal portfolio site [forrestmorriey.com/projects](forrestmorriey.com/projects) or
-  - LinkedIn [LinkedIn](https://www.linkedin.com/in/forrestmorrisey/)
+  - my personal portfolio site [forrestmorriey.com/projects](https://www.forrestmorrisey.com/projects) or
+  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/forrestmorrisey/)
