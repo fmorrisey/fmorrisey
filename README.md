@@ -6,11 +6,11 @@
 - 😎  Being a Front End developer allows me to turn concepts into a cool dynamic functional design experience.
 
 Professional experience in:
-- JavaScript / React / Angular / NodeJS
+- JavaScript / Typescript / React / Angular / NodeJS
 - HTML / CSS / SASS / Responsive Flexbox
 
 Familiarity with:
- - C# / Typescript / Python / ExpressJS / Mongoose / Docker
+ - C# / Python / ExpressJS / Mongoose / Docker
  - MongoDB NoSQL and SQL databases
  
 - 📫  You can reach me via:
