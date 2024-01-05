@@ -9,7 +9,7 @@ Professional experience in:
 - JavaScript / Typescript / Angular / NodeJS
 - Bash Script / Jenkins / Python / Docker
 - HTML / CSS / SCSS / Responsive Flexbox
-- MongoDB NoSQL and SQL databases
+- MongoDB NoSQL and mySQL SQL databases
 
 Familiarity and training in:
  - React / C# .Net / ExpressJS / Mongoose
