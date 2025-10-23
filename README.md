@@ -64,7 +64,7 @@ Docker • Jenkins • Bash • Git • Linux • MongoDB / MySQL • Cypress �
 ---
 
 ### 🔍 What I’m Doing Now
-- 🧭 Seeking my next **Senior Software Engineer** role (remote or hybrid)  
+- 🧭 Seeking my next **Senior Software Engineer** role (remote)  
 - 🧰 Building side projects that merge **front-end engineering** with **backend systems and DevOps**  
 - 🧗‍♂️ Training for mountaineering and adventure travel — because endurance, patience, and curiosity fuel my work  
 
