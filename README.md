@@ -34,7 +34,7 @@ Docker • Jenkins • Bash • Git • Linux • MongoDB / MySQL • Cypress �
 
 ### 🏔️ Current Projects
 
-#### 🧠 [Rainier Workstation / Server](https://github.com/fmorrisey)
+#### 🧠 Rainier Workstation / Server - [http://rainierserver.com/](http://rainierserver.com/)
 - Hybrid **Ubuntu + TrueNAS SCALE** workstation for development, storage, and virtualization  
 - Features mirrored NVMe pools, RAIDZ1 archival drives, Tailscale remote access, and automated ZFS snapshots  
 - Fully documented with monitoring, replication, and disaster recovery automation  
